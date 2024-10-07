@@ -1,0 +1,15 @@
+Sistem Rekomendasi Film Berbasis Website dengan Metode Prototype Menggunakan Algoritma K-Nearest Neighbors (KNN)	sistem rekomendasi, content-based filtering, k-neareast neighbors, movie
+Simulasi Unjuk Kerja Discrete Wavelet Transform (DWT) dan Discrete Cosine Transform (DCT) Untuk Pengolahan Sinyal Radar Di Daerah Yang Ber-Noise Tinggi	radar, discrete wavelet transform, discrete cosine transform, window, noise	
+Komparasi Filter Daubechies Dalam Wavelet Transform Berbasis Singular Value Decomposition	watermarking, discrete wavelet transform, singular value decomposition, filter haar, filter daubechies
+Kombinasi RSA-CRT dengan Random LSB untuk Keamanan Data di Kanwil Agama Prov. Sumatra Utara	cryptographic RSA-CRT, steganography random lsb, pseudo random number generator (PRNG), Linear congruential generator
+Penerapan Metode Klasifikasi Support Vector Machine (SVM), Pada Data Akreditasi Sekolah Dasar (SD) di kabupaten Magelang	akreditasi, klasifikasi, support vector machine, hyperplane, gausian RBF kernel, akurasi
+Sistem Prediksi Penyakit Kanker Serviks menggunakan CART, naïve bayes, dan K-NN	CART, naïve bayes, k-neareast neighbor, klasifikasi
+Penerapan Theta* pathfinding untuk Navigasi Non-Player Character pada Gim Maze	artificial intelligence, pathfinding, a*, theta*, maze, non-player character
+Penerapan algoritma basic theta* pada game hexaconquest	pathfinding, a*, basic theta*, penerapan, perbandingan
+Pembuatan data warehouse penjualan produk, dan penerapan dalam studi kasus divisi greenscope energy - PT. Tustika Nagata Surabaya	association rule, data mining, data warehouse
+Fuzzy Mamdani Dalam Menentukan TingkatKeberhasilan Dosen Mengajar	logika fuzzy, fuzzy mamdani, fuzzy, defuzzy
+Prediksi Jumlah Penduduk Menggunakan Fuzzy Time Series Model Chen	fuzzy time series chen, jumlah penduduk dan AFER
+Sistem Rekomendasi Pada E-Commerce Menggunakan K-Nearest Neighbor	sistem rekomendasi, collaborative filtering, content-based filtering
+Prediksi Jumlah Kunjungan Pasien Rawat Jalan Menggunakan Metode Genetic Fuzzy Systems Studi Kasus: Rumah Sakit Usada Sidoarjo	logika fuzzy, mamdani fuzzy, algoritma genetika, peramalan, kunjungan pasien rawat jalan
+Sistem Prediksi Jumlah Pasien Covid-19 Menggunakan Metode Trend Least Square Berbasis Web	COVID-19, prediksi, trend least square, rstudio, data mining
+Perancangan Sistem Rekomendasi Dokumen Dengan Pendekatan Content-Based Filtering	sistem rekomendasi, dokumen, content-based filtering
